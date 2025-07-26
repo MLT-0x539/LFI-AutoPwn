@@ -67,11 +67,6 @@
 // yup, know thos code is most likely vulnerabble
 // nope, I don't give even the slightest fraction of a shit.
 // What're gonna do? Sue me? r00t me? if so, pllz go for the latter..
-// I'm a firm believer in "HackBack" and I've not had the satisfcation
-// of shonwing any skids why famous blackhats were hersitant to even talk about pwning me..
-// So PLEASE, someone root tjhe prod env for this tool to give me an exc8se ;)
-// These newgen kids have only seen my whiethat work, so Im itching to unlreash some havoq :P
-// To any newgens: go ahead and pwn this tool s0o I can remind the interwebz who/what I truly sm.]
 
 // TO ANYONE USING THIS TOOL FOR ITS INTENDED PURPOSES, READ THE FOLLPOWING:
 // 0x01: Most recent source code - https://github.com/MLT-0x539/LFI-AutoPwn/
