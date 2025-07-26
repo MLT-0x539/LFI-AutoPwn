@@ -81,13 +81,6 @@
  
  //                                                  [[ Greetz && Shoutoutz: ]]
 
- //            Bug0xF4 Crew, Cult of the Lost Call Stack, BlackhatAcademy, Partyvan IRC, pr0j3ktm4yh3m, GoNullYourself,  
- //            Underground Intelligence Agency, Phrack High Council, OwlSec, ZCompany Hacking Crew, bitst0rm, halfdead,
- //            sghrakkuy, hatter, yokai, deuszu, d0ped, Luit, Ransomawre, sp00n, t-H3x, KMS (Rest in Peace :/), nomed,
- //            BlackHacker, steemeh, fx0, TinKode, agd_scorp, brutelogic, FuZi0N, syn4pse, Happy Ninjaz, xMinoko, moonym
- //            x2Fusion, DeadlyData, t3kn0h03, Se7eN, fscockfucker, GhostExodus, d0c, CtrlAltLeet, Mad76e, 0xHyde, & prng.
-
- //                      [[ If I didn't includen you in this list, just remember I still love you <3 -- MLT. ]] 
 
 // ==================================================================================================================================
 
