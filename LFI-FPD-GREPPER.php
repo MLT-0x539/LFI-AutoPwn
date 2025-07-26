@@ -66,7 +66,7 @@
 // yup, I know .PHP sucks over 9000 dicks per second
 // yup, know thos code is most likely vulnerabble
 // nope, I don't give even the slightest fraction of a shit.
-// What're gonna do? Sue me? r00t me? if so, pllz go for the latter..
+// What're gonna do? Sue me? r00t me? if so, pllz go for the latter.. 
 
 // TO ANYONE USING THIS TOOL FOR ITS INTENDED PURPOSES, READ THE FOLLPOWING:
 // 0x01: Most recent source code - https://github.com/MLT-0x539/LFI-AutoPwn/
