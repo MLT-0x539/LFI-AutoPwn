@@ -6,7 +6,7 @@
 
 // ==================================================================================================================================
 
-// ORIGINAL LFI-AutoPwn.pl script written by MLT + hatter during BlackhatAcademty Wiki+IRC 
+// ORIGINAL LFI-AutoPwn.pl script written by MLT + hatter during BlackhatAcademty Wiki+IRC  
 // LFI-AutoPwn.php (Perl => PHP port w/ added code modernization)  - Written by MLT during Bug0xF4
 // LFI-AutoPwn: PRIMARY/MOST IMPORTANT ADDON/EXTENSION (This script = LFI-FTP-GREP.php Addon/Extension:)
 // LFI-FPD-GREPPER.php addon/extension written by MLT during Bug0xF4
